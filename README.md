@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript | React | Node | MySQL | MongoDB**
+- 🌱 I’m currently learning **Python | Django | JavaScript | Node | Nest | MySQL | MongoDB**
 
 - 📫 How to reach me **enoc.delgado.technology@gmail.com**
 
