@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enoc Delgado</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Web and Mobile developer</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Python | FastAPI | JavaScript | Node | Nest | MySQL | MongoDB**
+- 🌱 I’m currently learning ** JavaScript | Angular | Node | Flutter | kotlin | Swift**
 
-- 📫 How to reach me **enoc.delgado.technology@gmail.com**
+- 📫 How to reach me: enoc.delgado.dev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
