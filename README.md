@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular | Flutter | kotlin | Swift**
 
-- 💬 Ask me about **TypeScript | Angular | Node | Flutter | kotlin | Swift**
+- 💬 Ask me about **TypeScript | Angular | Nest | Flutter | kotlin | Swift**
 
 - 📫 How to reach me **enoc.delgado.dev@gmail.com**
 
